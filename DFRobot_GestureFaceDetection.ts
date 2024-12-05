@@ -35,6 +35,7 @@ let _addr = 0x72
 /**
  * Custom blocks
  */
+//% block="DFRobot_GestureFaceDetection"
 //% weight=100 color=#0fbc11 icon="\uf164"
 namespace DFRobot_GestureFaceDetection {
     /**

@@ -1,4 +1,5 @@
 {
+    "DFRobot_GestureFaceDetection|block":"AI視覺手勢/人臉檢測傳感器",
     "DFRobot_GestureFaceDetection.begin|block": "AI視覺手勢/人臉檢測傳感器初始化I2C通信（地址0x72）",
     "DFRobot_GestureFaceDetection.getGestureType|block": "獲取手勢類型",
     "DFRobot_GestureFaceDetection.getFaceNumber|block": "獲取人臉的數量",

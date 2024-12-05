@@ -1,4 +1,5 @@
 {
+    "DFRobot_GestureFaceDetection|block":"AI视觉手势/人脸检测传感器",
     "DFRobot_GestureFaceDetection.begin|block": "AI视觉手势/人脸检测传感器初始化I2C通信（地址0x72）",
     "DFRobot_GestureFaceDetection.getGestureType|block": "获取手势类型",
     "DFRobot_GestureFaceDetection.getFaceNumber|block": "获取人脸的数量",
