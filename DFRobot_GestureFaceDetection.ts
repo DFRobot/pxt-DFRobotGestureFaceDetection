@@ -112,7 +112,7 @@ namespace DFRobot_GestureFaceDetection {
     /**
      * Initializes the I2C address of the module and related configurations
      */
-    //% block="AI Vision Gesture/Face Detection Sensor Initialize I2C Mode (Address 0x72)."
+    //% block="AI Vision Gesture/Face Detection Sensor Initialize I2C Mode (Address 0x72)"
     //% weight=99
     export function begin(): void {
         _addr = 0x72
@@ -139,7 +139,7 @@ namespace DFRobot_GestureFaceDetection {
     /**
      *  Get the number of faces recognized in the current lens, if the number is greater than 0, the white LED light on the product will light up.
      */
-    //% block="Get the number of faces."
+    //% block="Get the number of faces"
     //% weight=95
     export function getFaceNumber(): number {
         let value = reaInputdReg(REG_GFD_FACE_NUMBER)

@@ -1,7 +1,7 @@
 {
-    "DFRobot_GestureFaceDetection.begin|block": "AI Vision Gesture/Face Detection Sensor Initialize I2C Mode (Address 0x72).",
+    "DFRobot_GestureFaceDetection.begin|block": "AI Vision Gesture/Face Detection Sensor Initialize I2C Mode (Address 0x72)",
     "DFRobot_GestureFaceDetection.getGestureType|block": "Get gesture type",
-    "DFRobot_GestureFaceDetection.getFaceNumber|block": "Get the number of faces.",
-    "DFRobot_GestureFaceDetection.getFaceLocationX|block": "Get face X-coordinate.",
+    "DFRobot_GestureFaceDetection.getFaceNumber|block": "Get the number of faces",
+    "DFRobot_GestureFaceDetection.getFaceLocationX|block": "Get face X-coordinate",
     "DFRobot_GestureFaceDetection.getFaceLocationY|block": "Get face Y-coordinate"
 }
