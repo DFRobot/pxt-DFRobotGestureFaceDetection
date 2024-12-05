@@ -1,0 +1,7 @@
+{
+  "DFRobot_GestureFaceDetection.begin": "Initializes the I2C address of the module and related configurations",
+  "DFRobot_GestureFaceDetection.getGestureType": "Take the recognized gesture type, if successful, the RGB light on the product will light up the corresponding color.",
+  "DFRobot_GestureFaceDetection.getFaceNumber": "Get the number of faces recognized in the current lens, if the number is greater than 0, the white LED light on the product will light up.",
+  "DFRobot_GestureFaceDetection.getFaceLocationX": "Get the X-coordinate position of the face in the shot",
+  "DFRobot_GestureFaceDetection.getFaceLocationY": "Get the Y-coordinate position of the face in the shot"
+}

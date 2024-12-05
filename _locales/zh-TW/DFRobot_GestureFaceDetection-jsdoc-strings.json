@@ -1,0 +1,7 @@
+{
+  "DFRobot_GestureFaceDetection.begin": "初始化模块的I2C地址以及相关配置",
+  "DFRobot_GestureFaceDetection.getGestureType": "获取识别到的手势类型，如果获取成功，产品上的RGB灯会亮起对应的颜色.",
+  "DFRobot_GestureFaceDetection.getFaceNumber": "获取当前镜头内识别到的人脸数量，如果数量大于0的话，产品上白色的LED灯会亮起",
+  "DFRobot_GestureFaceDetection.getFaceLocationX": "获取人脸在镜头里的X坐标位置",
+  "DFRobot_GestureFaceDetection.getFaceLocationY": "获取人脸在镜头里的Y坐标位置"
+ }
